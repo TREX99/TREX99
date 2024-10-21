@@ -1,6 +1,3 @@
-## 반갑습니다. 👋
-
-<!--
 **trex99/trex99** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
@@ -13,4 +10,12 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+
+## 반갑습니다. 👋
+## 반갑습니다. 👋
+## 반갑습니다. 👋
+# 아마도 이것이 메인에 보여지겠죠 ?
+<ul>
+  <li>첫번째</li>
+  <li>두번째</li>
+</ul>
